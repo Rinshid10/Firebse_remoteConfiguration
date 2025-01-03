@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940338409745",
+    "project_id": "remote-controll-823be",
+    "storage_bucket": "remote-controll-823be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940338409745:android:5071b56c1b037589805cb0",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf3ZVdCZ5wmdiBkmZY-7QhsBfTPD14L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
